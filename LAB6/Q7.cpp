@@ -31,9 +31,9 @@ int main()
 		printf("number is armstrong number");
 	} // if ends
 	else
-	{ else begins
+	{ //else begins
 		printf("number is not armstrong number");
-	} else ends
+	} //else ends
 	
 	return 0;
 }
