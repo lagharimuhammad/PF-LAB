@@ -10,7 +10,7 @@ int main()
 {
 	
 	int size, num;
-	bool flag = false; // as we are assuming that there is no num = array element
+	bool flag = false;
 	
 	//enter size of array
 	printf("Enter size of your array: ");
